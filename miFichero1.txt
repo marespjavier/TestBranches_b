@@ -1,4 +1,5 @@
 Mi primer fichero en repositorio local.
 Otra linea mas para guardar.
 Otra linea mas para guardar.
-Editamos el fichero desde rama main.
+Conflicto resuelto
+
